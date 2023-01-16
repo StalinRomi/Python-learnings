@@ -20,6 +20,8 @@ Python is an **interpreted** & High-level programming lanuage.
 
 It was created by **Guido Van Rossum** in 1989.
 
+In Python, everything is an **Object**.
+
 ## Modules
 
 Its a **Code library**. Its like borowing someone else's code in your program without knowing the implementational of that code.
