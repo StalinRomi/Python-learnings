@@ -29,3 +29,11 @@ Its a **Code library**. Its like borowing someone else's code in your program wi
 1. **Built - in Module** -> It ships along with the programming language.
 
 2. **External Module** -> We need to install it using a package manager like Pip.
+
+## Comments
+
+A comment is a part of the coding file that the programmer does not want to execute. Its used to either **explain a block of code** or to avoid execution of a specific part of code while testing.
+
+**For single line -> #**
+
+**For multi-line -> ''' '''** (3 Single Quotes OR 3 Double Quotes)
